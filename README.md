@@ -1,7 +1,7 @@
 
-# RoadVision: Using Hybrid Attention and Directional Prior for Road Segmentation in Remote Sensing
+# HDRoad: Using Hybrid Attention and Directional Prior for Road Segmentation in Remote Sensing
 
-This repository contains the code, training weights, and datasets for the paper "RoadVision: Using Hybrid Attention and Directional Prior for Road Segmentation in Remote Sensing."
+This repository contains the code, training weights, and datasets for the paper "HDRoad: Using Hybrid Attention and Directional Prior for Road Segmentation in Remote Sensing."
 
 ## Table of Contents
 
@@ -16,7 +16,7 @@ This repository contains the code, training weights, and datasets for the paper 
 
 ## Introduction
 
-RoadVision is a novel encoder-decoder architecture tailored for road segmentation in remote sensing imagery. It features a Hybrid Attention Network (HA-Net) as the encoder, incorporating both dense and sparse spatial attentions to effectively distill semantic information. The decoder, Directional Augmented Road Morphology Extraction Network (DARMEN), utilizes morphological priors to refine and reconstruct road features.
+HDRoad is a novel encoder-decoder architecture tailored for road segmentation in remote sensing imagery. It features a Hybrid Attention Network (HA-Net) as the encoder, incorporating both dense and sparse spatial attentions to effectively distill semantic information. The decoder, Directional Augmented Road Morphology Extraction Network (DARMEN), utilizes morphological priors to refine and reconstruct road features.
 
 ## Installation
 
@@ -31,8 +31,8 @@ RoadVision is a novel encoder-decoder architecture tailored for road segmentatio
 1. Clone the repository:
 
    ```bash
-   git clone https://github.com/Hellmett/RoadVision.git
-   cd RoadVision
+   git clone https://github.com/Hellmett/HDRoad.git
+   cd HDRoad
    ```
 
 2. Install the required packages:
@@ -73,7 +73,7 @@ The SouthernChina13k dataset used in this project can be downloaded from [link t
 
 ## Results
 
-The experimental results demonstrate that RoadVision surpasses both mainstream and specialized road-segmentation methods by a margin of 4%, setting new benchmarks for state-of-the-art performance in the field.
+The experimental results demonstrate that HDRoad surpasses both mainstream and specialized road-segmentation methods by a margin of 4%, setting new benchmarks for state-of-the-art performance in the field.
 
 ## Contributing
 
