@@ -1,8 +1,8 @@
 
-# HDRoad: Using Hybrid Attention and Directional Prior for Road Segmentation in Remote Sensing
+# HDRoad: An Encoder-Decoder Architecture with Hybrid Attention and Directional Prior for Efficient Road Extraction from Remote Sensing Images
 
-This repository contains the code, training weights, and datasets for the paper "HDRoad: Using Hybrid Attention and Directional Prior for Road Segmentation in Remote Sensing."
-
+This repository contains the code, training weights, and datasets for the paper "HDRoad: An Encoder-Decoder Architecture with Hybrid Attention and Directional Prior for Efficient Road Extraction from Remote Sensing Images."
+All data will be made public upon acceptance.
 ## Table of Contents
 
 - [Introduction](#introduction)
